@@ -2,6 +2,9 @@
 ### Everyday learning codes with Kotlin
 - To access the material please enter in the folder mycodes, as I printed below <br>
 ![image](https://user-images.githubusercontent.com/67469148/187469158-57e68aba-494e-4fe8-9137-6a0c5d369b21.png) <br>
+- And there you have it, enjoy :) <br>
+![image](https://user-images.githubusercontent.com/67469148/187473246-6d45c7b7-70c2-4cfd-a250-9f2eff49e404.png)
+
 
 
 
